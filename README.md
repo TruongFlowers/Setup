@@ -20,7 +20,7 @@ cd /sdcard/download
 ```
 ## 3. Nếu trong mục 'Download' đã có file 'Setup' trước đó thì bỏ qua bước này :>
 ```
-git clone https://github.com/truongpixel/Setup.git
+git clone https://github.com/truongflowers/Setup.git
 ```
 ## 4.
 
